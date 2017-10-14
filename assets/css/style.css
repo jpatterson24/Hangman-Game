@@ -1,0 +1,44 @@
+    .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+    padding: 0px;
+    border-style: solid;
+    border-color: gray;
+    text-align: center;
+    position: relative;
+    /*top: -368px;*/
+}
+
+.panel-title {
+	font-size: 30px
+
+}
+
+.panel-default{
+	position: relative;
+	top: 452px;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    position: relative;
+    /*bottom: -370px;*/
+    line-height: 1.42857143;
+    color: #100f0f;
+    background-color: pink;
+    /*background-color: #563535;*/
+    background: url(hangmanPic.jpg);
+}
+
+.panel-body {
+    padding: 15px;
+    background-color: gray;
+}
+
+.panel-heading {
+	font-size: 20px;
+}
